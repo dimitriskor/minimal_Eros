@@ -1,0 +1,6 @@
+venv
+frame*
+event_data
+build
+*.png
+
